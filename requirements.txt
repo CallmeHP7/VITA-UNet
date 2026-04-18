@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+nibabel
+SimpleITK
+medpy
+matplotlib
